@@ -34,7 +34,7 @@ Training JavaScript - Alura
 * O operador de negação NOT (!)
 * Como validar um formulário
 * A função push para colocar elementos dentro de um array
-* A propriedade innerHTML dos elementos, que foi usada para apagar os itens da <!-- <ul> -->
+* A propriedade innerHTML dos elementos, que foi usada para apagar os itens da ul <!-- <ul> -->
 * O método forEach para percorrer arrays
 
 * O novo evento de dblclick
